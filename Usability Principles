@@ -1,0 +1,101 @@
+Usability principles
+
+An error message should include the cause of the error and possible solution to get rid of the error. - true
+
+User Experience (UX) is not just what it looks like and feels like. UX is how it works. -- true
+
+Aesthetics is optional in usability. -- false
+
+If user experience of a product is poor, _____________. Select the options that correlate with the given statement. -- Users will go away 
+
+A form having many fields must be broken down into smaller chunks based on the similarity of the information captured using these fields. -- true
+
+User Experience is an important consideration for any product because ____________. -- All
+
+The tradeoff between user experience and delivery time is _______________. -- need not be a tradeoff
+
+Choose the correct option for the given statement. When processing time is more than 10 seconds, it is recommended that __________________. -- System shows a progress bar, indicating status of completion
+
+Grouping is useful because ___________. -- It helps to easily process information with similar trait and find information quickly.
+
+Consistency is used to _____________. -- Establish branding and maintain standardization
+
+Affordance refers to _________________. -- How people think about how to use an object
+
+Findability allows _____________. -- Quick retrieval of information
+
+While designing a page layout, alignment must be done considering the which of the following factors. -- Alignment rules defined for the entire application in master templates
+
+Alignment in a text-heavy page is important because ____________. -- It makes the text easier to scan.
+
+The usability of a mobile application was evaluated through series of user tests. One of the observations during the test was - Users were not able to find out that they had to perform a swipe gesture on the screen to open the filter panel.
+According to you, which of the following heuristic must be improvised to overcome this problem? -- Affordance
+
+Where is affordance useful? -- For designing icons and for indicating how a UI component works
+
+Which of the following can be termed as examples of System Feedback? -- A “ping” sound when new message is received
+
+State if the statement is true or false. “All system feedbacks need to have a visual element to it”. -- false
+
+‘Recovery from errors’ helps users to ___________. -- Recover from costly mistakes and revert changes
+
+Recovery from error is important for _____________ -- All
+
+Ease of use is critical in scenarios where ______________. -- All
+
+Which of the following would you consider to improve the aesthetic of a software application? -- all
+
+When is it recommended to use 'System Feedback'? -- To indicate error and to confirm task success or failure.
+
+Users without specialized knowledge are able to use the product easily. This implies that the product can be considered under _____________. -- Ease of use
+
+How simple something can be used without any help, refers to --- Ease of use
+
+A beautiful visual design can compensate flaws in usability. -- False
+
+Creating accessible product is an ‘extra’ thing in product design --- True
+
+Why to think about Usability and User Experience? To provide exceptional graphic design.
+----------------------
+
+The download icon looks like a print icon. Which Usability heuristic is affected here? -- affordance
+
+How to deliver a better product in terms of Usability and User Experience? -- b,c
+
+If a user is able to retrieve a mail mistakenly sent in trash back to inbox, it is __________. -- error recovery
+
+Minimizing user’s memory loads is related to __________________. -- Implementing ‘Recognition rather than recall’ characteristic.
+
+Relate the following questions to Usability and User Experience. -- a.b,c,d
+
+Minimalist design means ________. -- Not including and showing any irrelevant/not required piece of information.
+Not including and showing any irrelevant/not required piece of information.
+
+Usability is an important goal and a subset in an overall UX design. -- true
+
+The spelling mistakes in content affect which of the usability heuristics __________. -- Findability*
+
+‘Save’ button has ‘Green’ color on a page and ‘Red’ on another page, select the appropriate comments based on the given statement. -- all
+
+vSelect a correct sequence for the mentioned tasks. -- Information Architecture-> Visual Design -> Interaction Design -> Development
+
+User Experience is an enhanced Visual Design of the product. -- false
+
+‘Your system will restart automatically after installation’ is an example of ____________. -- Consistency*
+
+While pressing on ‘Logout’ button, pop-up of ’Do you really want to logout?’ shows _________________. -- error prevention
+
+User is not able to view action button. How this issue can be qualified? -- It is an affordance issue, which is trivial.*
+
+Choose the correct options about Usability and User Experience, --  a and b
+
+How ‘Help’ is treated for a good usability? -- only a,b and c are valid *
+
+Error messages should be represented in technical jargon indicating underlying technical problem to the user. -- false
+
+If a user is able to perform a specific task, it is definitely a good UX. -- false
+
+User interface design is about _____________. -- all
+
+For driving, if a road is usability, the surrounding scenery, lights, trees and traffic signals can be said contributors to User Experience. -- true
+
