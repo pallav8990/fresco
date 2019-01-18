@@ -1,0 +1,91 @@
+The 2 main versions of Python include —- Python 2 and python 3
+
+Which of the following attributes shows the characteristics of Python? Python is everywhere (Webscripting, 3D Modelling , Games , and Desktop applications ) — ubiquity
+
+Python supports automatic garbage collection — true
+
+Which is the fastest implementation of Python — pypy
+
+Code written in Python 3 is backward compatible with Python 2 — False
+
+Which of these are salient features of Python, except — limited platform support
+
+Python is Ubiquitous? Is this true or false ? - True
+
+When using the Python shell and code block, what triggers the interpreter to begin evaluating block of code? — blank line
+
+What command is used to output text from both the Python shell and within a Python module? — print()
+
+While using Python IDLE, by how many space are the code suites indented? — 4
+
+Which action should be avoided so that you do not mistakenly overwrite names that you have already defined? — use the wildcard import
+
+Equivalent operation for function pow(x , y) is __. — x**y
+
+Which datatype is represented by int in Python 3? — decimal* long
+
+Which statement accurately defines the bool class? — Boolean not returns false
+
+Which of the following will not result in declaring x as datatype of float? —x=5
+
+Which statement correctly assigns X as an infinite number? — x= float(‘inf’)
+
+The bool class is subset of ______. —  int
+
+Is x,y=5,6 a valid statement? - true
+
+While using 'bool', all zero values are considered as false and non- zero values are considered as true. Is this correct? — True
+
+What is the output of bool(0)? — False
+
+Byte datatype can contain only ______ and ______. — ascii& hexane
+ 
+What is the output of min('Infinity')? — f
+
+Which describes bytearrays? — without an argument
+
+Which statements will result in slice of tuple? — 0 =a_tuple[::2] a_tuple[:]
+
+
+Values in bytearray should be integers between — 0-255
+
+Which statements prevent the escape sequence interpretation? r ‘..\t’
+
+Using Pop in list will remove the popped up item. —True
+
+Which of these could be used in tuple object — Sorted,lens, max
+
+Which statement creates the bytes literal when run? — bytes_literal= copyright
+
+The class which provides immutable sequence of elements — tuple
+
+Which methods can be used with list objects? — reverse, pop , clear
+
+Empty list could be created with list() alone. —False
+
+bytearray provides an mutable sequence (making it modifiable) — true
+
+While using slicing in lists, list[0:2] is equivalent to ______. — list[:2]
+
+ What is the output of max('Infinity')? — y 
+bytearray provides an mutable sequence (making it modifiable) — true
+
+Empty dictionary is represented as ________. — []
+
+Dictionary could be copied to another dictionary using which of following syntax? — dir_a= dir_b.copy()
+
+Consider b is frozen set, what happen to b.add(3)? — Error as frozen set
+
+All of these range types are correct except ___. — range(20,40,-2)
+
+a.difference(b) highlights the ________. — a-b
+
+a.symmetric_difference(b) highlights the ________.— a.union(b) - a.intersection(b)
+
+What is the output of the following code count = 0 while count < 2: print (count, " is less than 2") count = count + 2 else: print (count, " is not less than 2”) — 0 is less than 2; 2 is not less than 2
+
+What is the output of below code snippet - for char in 'Welcome': print (char, end='*') print() — W*e*l*c*o*
+
+a = 0 if a: print("a's value") else: print("Sorry nothing will get printed") — Sorry nothing will get printed
+
+What is the output of the following code? for x in (1,10,100): print (x) — 1 10 100
