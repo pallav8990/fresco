@@ -1,0 +1,56 @@
+Julia Programming
+
+Which of the following is not true about Julia? -- Statically Compiled
+
+Which distribution of Julia is used by FinTech? -- all
+
+not a keyword ;
+
+Which the following compiler does Julia uses? -- Ansi c
+
+Julia orignated from ________. -- mit 
+
+When you run a=10 in the Julia console and then typeof(a). Which of the following will be an answer? -- int64
+
+Which of the following doesn’t require installation? julia run
+
+Which of the following allows you to know the processor type? -- WORD_SIZE
+
+How to replace characters in strings? -- `replace("string", "pattern" , "new_char"0
+
+Output of typemax(Float64) will be ___________. -- inf
+
+Julia allows custom promotion rule. -- true
+
+Julia doesn’t auto promote datatypes. -- false
+
+Which of following is a valid scope in Julia? -- all
+
+Output of typemax(bool) will be _____________. -- 1
+
+Which of the following in not a key word in Julia? -- once
+
+Which of the other language is a wrapper through package? -- python
+
+Julia allows native code for displaying through which function? -- code_native
+
+Julia doesn't support custom exceptions.-- false
+
+Julia doesn't support octet literals. -- false
+
+Which of these is not used for managing packages? -- pkg.remove
+
+What is unique about Julia Functions? -- They can take variable arguments with constraints
+
+Is Function name mandatory in Julia? -- false
+
+All methods are available immediately after implementation. -- false
+
+Which is the correct behavior in Julia? -- Pass-By-sharing
+
+VarArgs functions is mandatory. -- false
+
+Which of the following is not a plotting package? -- gladly*
+
+
+
